@@ -1,0 +1,18 @@
+{
+    "boss": true,
+    "camelcase": true,
+    "curly": true,
+    "eqeqeq": true,
+    "eqnull": true,
+    "immed": true,
+    "maxlen": 120,
+    "noarg": true,
+    "quotmark": "double",
+    "undef": true,
+    "unused": true,
+    "browser": true,
+    "predef" : [
+        "define",
+        "jQuery"
+    ] 
+}

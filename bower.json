@@ -1,0 +1,25 @@
+{
+    "name": "geteventlisteners",
+    "version": "1.0.0",
+    "ignore": [
+        "**/.*",
+        "build",
+        "test",
+        "*.md",
+        "Gruntfile.js",
+        "package.json",
+        "bower.json"
+    ],
+    "keywords": [
+        "geteventlisteners",
+        "jquery",
+        "javascript",
+        "event",
+        "listener"
+    ],
+    "dependencies": {
+        "jquery": ">=1.8"
+    },
+    "devDependencies": {
+    }
+}
